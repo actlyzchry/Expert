@@ -1,0 +1,282 @@
+[
+  {
+    "file": "Brand/Expert-AppIcon-original-1024.png",
+    "bytes": 879599
+  },
+  {
+    "file": "Brand/expert-mark-vector.svg",
+    "bytes": 851
+  },
+  {
+    "file": "Brand/expert-wordmark.svg",
+    "bytes": 751
+  },
+  {
+    "file": "Components/dark/add-skill-button.svg",
+    "bytes": 870
+  },
+  {
+    "file": "Components/dark/disabled-button.svg",
+    "bytes": 869
+  },
+  {
+    "file": "Components/dark/primary-button.svg",
+    "bytes": 875
+  },
+  {
+    "file": "Components/dark/progress-bar.svg",
+    "bytes": 766
+  },
+  {
+    "file": "Components/dark/secondary-button.svg",
+    "bytes": 868
+  },
+  {
+    "file": "Components/dark/session-row.svg",
+    "bytes": 1134
+  },
+  {
+    "file": "Components/dark/session-saved.svg",
+    "bytes": 1094
+  },
+  {
+    "file": "Components/dark/skill-card.svg",
+    "bytes": 1402
+  },
+  {
+    "file": "Components/dark/text-field.svg",
+    "bytes": 848
+  },
+  {
+    "file": "Components/dark/timer.svg",
+    "bytes": 938
+  },
+  {
+    "file": "Components/light/add-skill-button.svg",
+    "bytes": 871
+  },
+  {
+    "file": "Components/light/disabled-button.svg",
+    "bytes": 870
+  },
+  {
+    "file": "Components/light/primary-button.svg",
+    "bytes": 876
+  },
+  {
+    "file": "Components/light/progress-bar.svg",
+    "bytes": 767
+  },
+  {
+    "file": "Components/light/secondary-button.svg",
+    "bytes": 869
+  },
+  {
+    "file": "Components/light/session-row.svg",
+    "bytes": 1135
+  },
+  {
+    "file": "Components/light/session-saved.svg",
+    "bytes": 1095
+  },
+  {
+    "file": "Components/light/skill-card.svg",
+    "bytes": 1403
+  },
+  {
+    "file": "Components/light/text-field.svg",
+    "bytes": 849
+  },
+  {
+    "file": "Components/light/timer.svg",
+    "bytes": 939
+  },
+  {
+    "file": "Expert-Overview.svg",
+    "bytes": 7900
+  },
+  {
+    "file": "Foundations/colors-and-type.svg",
+    "bytes": 3739
+  },
+  {
+    "file": "Icons/dark/archive.svg",
+    "bytes": 785
+  },
+  {
+    "file": "Icons/dark/back.svg",
+    "bytes": 725
+  },
+  {
+    "file": "Icons/dark/bell.svg",
+    "bytes": 760
+  },
+  {
+    "file": "Icons/dark/calendar.svg",
+    "bytes": 812
+  },
+  {
+    "file": "Icons/dark/chart.svg",
+    "bytes": 748
+  },
+  {
+    "file": "Icons/dark/check-circle.svg",
+    "bytes": 772
+  },
+  {
+    "file": "Icons/dark/chevron-right.svg",
+    "bytes": 742
+  },
+  {
+    "file": "Icons/dark/clock.svg",
+    "bytes": 756
+  },
+  {
+    "file": "Icons/dark/close.svg",
+    "bytes": 734
+  },
+  {
+    "file": "Icons/dark/download.svg",
+    "bytes": 754
+  },
+  {
+    "file": "Icons/dark/edit.svg",
+    "bytes": 744
+  },
+  {
+    "file": "Icons/dark/goal.svg",
+    "bytes": 793
+  },
+  {
+    "file": "Icons/dark/home.svg",
+    "bytes": 747
+  },
+  {
+    "file": "Icons/dark/info.svg",
+    "bytes": 759
+  },
+  {
+    "file": "Icons/dark/pause.svg",
+    "bytes": 729
+  },
+  {
+    "file": "Icons/dark/play.svg",
+    "bytes": 727
+  },
+  {
+    "file": "Icons/dark/plus.svg",
+    "bytes": 728
+  },
+  {
+    "file": "Icons/dark/stop.svg",
+    "bytes": 749
+  },
+  {
+    "file": "Icons/dark/trash.svg",
+    "bytes": 764
+  },
+  {
+    "file": "Icons/dark/upload.svg",
+    "bytes": 750
+  },
+  {
+    "file": "Icons/light/archive.svg",
+    "bytes": 786
+  },
+  {
+    "file": "Icons/light/back.svg",
+    "bytes": 726
+  },
+  {
+    "file": "Icons/light/bell.svg",
+    "bytes": 761
+  },
+  {
+    "file": "Icons/light/calendar.svg",
+    "bytes": 813
+  },
+  {
+    "file": "Icons/light/chart.svg",
+    "bytes": 749
+  },
+  {
+    "file": "Icons/light/check-circle.svg",
+    "bytes": 773
+  },
+  {
+    "file": "Icons/light/chevron-right.svg",
+    "bytes": 743
+  },
+  {
+    "file": "Icons/light/clock.svg",
+    "bytes": 757
+  },
+  {
+    "file": "Icons/light/close.svg",
+    "bytes": 735
+  },
+  {
+    "file": "Icons/light/download.svg",
+    "bytes": 755
+  },
+  {
+    "file": "Icons/light/edit.svg",
+    "bytes": 745
+  },
+  {
+    "file": "Icons/light/goal.svg",
+    "bytes": 794
+  },
+  {
+    "file": "Icons/light/home.svg",
+    "bytes": 748
+  },
+  {
+    "file": "Icons/light/info.svg",
+    "bytes": 760
+  },
+  {
+    "file": "Icons/light/pause.svg",
+    "bytes": 730
+  },
+  {
+    "file": "Icons/light/play.svg",
+    "bytes": 728
+  },
+  {
+    "file": "Icons/light/plus.svg",
+    "bytes": 729
+  },
+  {
+    "file": "Icons/light/stop.svg",
+    "bytes": 750
+  },
+  {
+    "file": "Icons/light/trash.svg",
+    "bytes": 765
+  },
+  {
+    "file": "Icons/light/upload.svg",
+    "bytes": 751
+  },
+  {
+    "file": "Preview.png",
+    "bytes": 139149
+  },
+  {
+    "file": "README.md",
+    "bytes": 1907
+  },
+  {
+    "file": "Screens/home-dark.svg",
+    "bytes": 2304
+  },
+  {
+    "file": "Screens/home-light.svg",
+    "bytes": 2306
+  },
+  {
+    "file": "design-tokens.json",
+    "bytes": 652
+  }
+]
